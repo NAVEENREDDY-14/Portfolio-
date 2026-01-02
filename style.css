@@ -79,7 +79,7 @@ section {
 }
 
 .project-card {
-    background: white;
+    background:  rgb(32, 22, 22);
     padding: 20px;
     margin: 10px 0;
     border-radius: 5px;
@@ -239,6 +239,7 @@ section {
     transform: translateY(-4px);
     box-shadow: 0 10px 25px rgba(59,130,246,0.6);
 }
+
 
 
 
